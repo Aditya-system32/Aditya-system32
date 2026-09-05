@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **ML**
 
-- 👨‍💻 All of my projects are available at [adityayadav.in.](adityayadav.in)
+- 👨‍💻 All of my projects are available at [adityayadav.in](adityayadav.in)
 
 - 💬 Ask me about **react, node**
 
